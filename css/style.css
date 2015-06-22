@@ -1,0 +1,118 @@
+/* line 7, ../../../../../Ruby187/lib/ruby/gems/1.8/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities-legacy.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-weight: inherit;
+  font-style: inherit;
+  font-size: 100%;
+  font-family: inherit;
+  vertical-align: baseline;
+}
+
+/* line 17, ../../../../../Ruby187/lib/ruby/gems/1.8/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities-legacy.scss */
+body {
+  line-height: 1;
+  color: black;
+  background: white;
+}
+
+/* line 19, ../../../../../Ruby187/lib/ruby/gems/1.8/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities-legacy.scss */
+ol, ul {
+  list-style: none;
+}
+
+/* line 21, ../../../../../Ruby187/lib/ruby/gems/1.8/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities-legacy.scss */
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+  vertical-align: middle;
+}
+
+/* line 23, ../../../../../Ruby187/lib/ruby/gems/1.8/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities-legacy.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+/* line 25, ../../../../../Ruby187/lib/ruby/gems/1.8/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities-legacy.scss */
+q, blockquote {
+  quotes: "" "";
+}
+/* line 96, ../../../../../Ruby187/lib/ruby/gems/1.8/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities-legacy.scss */
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+}
+
+/* line 27, ../../../../../Ruby187/lib/ruby/gems/1.8/gems/compass-core-1.0.3/stylesheets/compass/reset/_utilities-legacy.scss */
+a img {
+  border: none;
+}
+
+/* line 4, ../sass/style.scss */
+body {
+  background: #f5f5f5 !important;
+}
+
+/* line 11, ../sass/style.scss */
+.navbar-login > li > a {
+  color: #03a9f4 !important;
+  text-transform: uppercase;
+  padding: 20px 10px;
+}
+
+/* line 19, ../sass/style.scss */
+.navbar {
+  background-color: rgba(255, 255, 255, 0.97);
+  border: 0 none;
+  border-radius: 0 !important;
+  box-shadow: 0 0 3px #44484b;
+  margin-bottom: 0;
+}
+
+/* line 27, ../sass/style.scss */
+.navbar-default {
+  background-color: #fff !important;
+}
+
+/* line 30, ../sass/style.scss */
+.cart {
+  margin: 10px 0px;
+  /*padding:0 !important;*/
+}
+
+/* line 35, ../sass/style.scss */
+.white {
+  background-color: #fff;
+}
+
+/* line 38, ../sass/style.scss */
+.sale {
+  display: inline;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+/* line 43, ../sass/style.scss */
+.info {
+  float: right;
+  text-align: right;
+  width: 150px;
+  display: inline;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+/* line 53, ../sass/style.scss */
+.add_in {
+  padding: 10px 15px;
+}
